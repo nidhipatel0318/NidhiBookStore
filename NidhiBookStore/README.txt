@@ -87,3 +87,5 @@ Installled
  correctig the default to .Models.ViewModels.Error
  Ran the Application
  all working
+
+ added the sd class in utitlity
