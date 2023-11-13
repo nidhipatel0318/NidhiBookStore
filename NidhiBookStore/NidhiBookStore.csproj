@@ -20,11 +20,11 @@
   <ItemGroup>
     <ProjectReference Include="..\NidhisBooks.DataAccess\NidhisBooks.DataAccess.csproj" />
     <ProjectReference Include="..\NidhisBooks.Models\NidhisBooks.Models.csproj" />
+    <ProjectReference Include="..\NidhisBooks.Utility\NidhisBooks.Utility.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Customer\Views\" />
-    <Folder Include="Controllers\" />
+    <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
 </Project>

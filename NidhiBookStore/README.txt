@@ -89,3 +89,8 @@ Installled
  all working
 
  added the sd class in utitlity
+ad the customer area to areas
+
+changing the routes 
+
+move the home controler cs to areas xustomer and dekleting the data and models folder.
