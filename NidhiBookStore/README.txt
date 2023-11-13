@@ -62,3 +62,19 @@ Installled
  Deleting the migrations
  intsaling the nuget package
  intalled
+
+ Now deleteting the default classes
+ Class1.cs
+
+ deleed
+
+ Finally Building the project
+ Builed
+  Moving the Models to .Models project
+  Modifying thw Error,cshtml 
+
+  Modified
+  Adding the project refrence to .DataAccess and .Models PROJECT
+  ADDED CHANGING THE	namespace
+  changeddBuild the project
+  builedd
