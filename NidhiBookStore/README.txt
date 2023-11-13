@@ -16,8 +16,26 @@ its working
 
 Ading the bootstrap from the bootswatch.com
 SELECTED QUARTZ THEME
+
 ADDED
 
 
-NOW REPLACING site.js
+replaced the site.js file and changed the name to bootstrap.css from bootsrap.min.css in _Layout.cshtml
 replaced
+commented
+
+changedb the navbar
+then removed the text dark in line 23
+
+committted
+now adding the additional properties to the footer class
+testing
+
+removed references to text dark from _LoginPartial.cshtml
+now runnig the project
+
+it works
+
+adding the additionl links
+added the links of css and js to _Layout.cshtml from the txt files provided
+commited 
