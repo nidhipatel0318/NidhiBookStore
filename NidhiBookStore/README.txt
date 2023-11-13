@@ -39,3 +39,13 @@ it works
 adding the additionl links
 added the links of css and js to _Layout.cshtml from the txt files provided
 commited 
+
+
+now adding the dropdown menu
+added
+commiting
+
+now changing it to content management
+changed 
+testing
+it worked
