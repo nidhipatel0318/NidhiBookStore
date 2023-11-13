@@ -78,3 +78,12 @@ Installled
   ADDED CHANGING THE	namespace
   changeddBuild the project
   builedd
+  oops error in Error.cshtml file
+ Modifying the stratup.cs AddContext
+
+ running the application and reviewing the errorss
+ done
+
+ correctig the default to .Models.ViewModels.Error
+ Ran the Application
+ all working
