@@ -49,3 +49,16 @@ now changing it to content management
 changed 
 testing
 it worked
+
+creating 3 new projects NidhisBooks.DataAccess, NidhisBooks.Models and NidhisBooks.Utility
+
+
+created
+now copying the Data Folder to .DataAccess folder
+copied and deleted the original
+
+Installing Microsoft.EntityFrameworkCore.Relational and Core.SqlServer packages
+Installled
+ Deleting the migrations
+ intsaling the nuget package
+ intalled
