@@ -94,3 +94,25 @@ ad the customer area to areas
 changing the routes 
 
 move the home controler cs to areas xustomer and dekleting the data and models folder.
+
+
+
+
+
+202-11-14 
+11:30
+Doing part 2 now
+
+builed the application to see if there are any errors
+build succeed.
+reviewing th app settings.json
+chaniging the migrations
+
+using nuget package manager console, added migration with meaningful name.
+
+
+noted what happens when the defaukt project is selected
+
+using .DatAccess project
+Added the migration file
+reviewed the file for sql file for syntax,statements etc.
