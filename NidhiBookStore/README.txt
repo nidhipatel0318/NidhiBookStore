@@ -144,10 +144,17 @@ modified the repository class
 created the repos for ctegory class
 
 categoryrepository.cs implemented the interfaces
-modified and now testinggg
 it workssss
 
 committed
 
 adding the ISP_Call.cs to Irepository
 now adding the SP_Call tO Repository
+modified the SP_cALL CLASS
+
+
+created the UnitOfWork interface in IRepsitory
+modfied
+
+now created UnitOfWork class in Repository
+modified
