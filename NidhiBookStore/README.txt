@@ -142,3 +142,6 @@ modifie the IRepository class
 added the repository class
 modified the repository class
 created the repos for ctegory class
+
+categoryrepository.cs implemented the interfaces
+
