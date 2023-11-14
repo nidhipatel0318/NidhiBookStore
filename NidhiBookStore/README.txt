@@ -129,3 +129,6 @@ added
 adding the migration 
 added
 updated the migration
+
+updted the database
+s
