@@ -144,4 +144,9 @@ modified the repository class
 created the repos for ctegory class
 
 categoryrepository.cs implemented the interfaces
+modified and now testinggg
+it workssss
 
+committed
+
+adding the ISP_Call.cs to Irepository
