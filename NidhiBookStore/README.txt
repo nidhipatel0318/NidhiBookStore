@@ -128,3 +128,4 @@ adding the new table to the DB by creating a Ctaaegory model and pushing it to t
 added
 adding the migration 
 added
+updated the migration
