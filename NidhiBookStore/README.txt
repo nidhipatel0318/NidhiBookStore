@@ -126,3 +126,5 @@ it works
 
 adding the new table to the DB by creating a Ctaaegory model and pushing it to th DB
 added
+adding the migration 
+added
