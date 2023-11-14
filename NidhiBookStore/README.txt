@@ -100,7 +100,7 @@ move the home controler cs to areas xustomer and dekleting the data and models f
 
 
 202-11-14 
-11:30
+11:00
 Doing part 2 now
 
 builed the application to see if there are any errors
@@ -116,3 +116,6 @@ noted what happens when the defaukt project is selected
 using .DatAccess project
 Added the migration file
 reviewed the file for sql file for syntax,statements etc.
+11:23
+
+updated the database
