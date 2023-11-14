@@ -119,3 +119,10 @@ reviewed the file for sql file for syntax,statements etc.
 11:23
 
 updated the database
+eviewed thge updated database.
+
+checking for errors
+it works
+
+adding the new table to the DB by creating a Ctaaegory model and pushing it to th DB
+added
