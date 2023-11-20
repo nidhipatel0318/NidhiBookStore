@@ -208,3 +208,9 @@ Solved the error and added the interface
  2:43 created the partial view in Views/Shared
  
  added the asp-action
+
+ 2:46
+ now creating _EditAndBackToListButton 
+
+ 2:49 created and adding the asp action
+ added th asp action
