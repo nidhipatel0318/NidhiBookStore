@@ -1,27 +1,24 @@
-﻿using NidhisBooks.DataAccess.Repository.IRepository;
-using NidhiBookStore.DataAcess.Data;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NidhiBookStore.DataAcess.Data;
+using NidhisBooks.DataAccess.Repository.IRepository;
 
-namespace NidhisBooks.DataAccess.Repository
+ namespace NidhisBooks.DataAccess.Repository
 {
-    public class UnitOfWork : IUnitOfWork    // make the method public
+    public class UnitOfWork
     {
-        private readonly ApplicationDbContext _db;   // the using statement
-
+        private readonly ApplicationDbContext _db;
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
             Category = new CategoryRepository(_db);
             SP_Call = new SP_Call(_db);
         }
-
         public ICategoryRepository Category { get; private set; }
         public ISP_Call SP_Call { get; private set; }
-
         public void Dispose()
         {
             _db.Dispose();
