@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace NidhisBooks.DataAccess.Repository.IRepository
 {
-   public interface ICategoryrRepository:IRepository<Category>
+   public interface ICategoryRepository:IRepository<Category>
     {
         void Update(Category category);
     }

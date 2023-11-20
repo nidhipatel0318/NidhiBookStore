@@ -158,3 +158,14 @@ modfied
 
 now created UnitOfWork class in Repository
 modified
+
+2023-11-20 10:31
+Solved the error and added the interface 
+ now moving ahead
+ closing all the currently opened tabs
+
+ adding the categorycontroller.cs to areas->admin->controller
+ created and modified 
+
+ now adding the folder Category to Areas->Views
+ added
