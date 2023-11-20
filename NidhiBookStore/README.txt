@@ -195,3 +195,11 @@ Solved the error and added the interface
 
  2:28 it works
  commiting
+
+ 2:35 added the IAction Result in CategoryController.cs
+ now adding a view to CategoryController.cs
+
+ 2:38
+ added the Upsert.cshtml to Category folder
+ now adding th content from the files provided
+ replaced
