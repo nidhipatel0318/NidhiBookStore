@@ -172,3 +172,7 @@ Solved the error and added the interface
 
  11:34 
  added the index.cshtml view
+ 
+ 11:37
+ replaced the code given for index
+ npr running the application
