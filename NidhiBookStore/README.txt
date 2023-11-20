@@ -184,3 +184,10 @@ Solved the error and added the interface
  deleted and now doing the js
 
  2:21 created the js file and added the content given in the files
+
+ 2:24 
+ adding thee @section to call the js
+ ad
+
+ 2:26
+ added
