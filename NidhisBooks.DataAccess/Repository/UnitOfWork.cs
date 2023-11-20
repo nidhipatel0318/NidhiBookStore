@@ -8,7 +8,7 @@ using NidhisBooks.DataAccess.Repository.IRepository;
 
  namespace NidhisBooks.DataAccess.Repository
 {
-    public class UnitOfWork:IUnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDbContext _db;
         public UnitOfWork(ApplicationDbContext db)
@@ -19,6 +19,9 @@ using NidhisBooks.DataAccess.Repository.IRepository;
         }
         public ICategoryRepository Category { get; private set; }
         public ISP_Call SP_Call { get; private set; }
+
+      //  IRepository.ICategoryRepository IUnitOfWork.Category => throw new NotImplementedException();
+
         public void Dispose()
         {
             _db.Dispose();

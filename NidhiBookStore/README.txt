@@ -169,3 +169,6 @@ Solved the error and added the interface
 
  now adding the folder Category to Areas->Views
  added
+
+ 11:34 
+ added the index.cshtml view
