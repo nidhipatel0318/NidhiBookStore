@@ -203,3 +203,8 @@ Solved the error and added the interface
  added the Upsert.cshtml to Category folder
  now adding th content from the files provided
  replaced
+ 2:40
+ now creating the partial view 
+ 2:43 created the partial view in Views/Shared
+ 
+ added the asp-action
