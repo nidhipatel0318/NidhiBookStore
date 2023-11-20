@@ -214,3 +214,6 @@ Solved the error and added the interface
 
  2:49 created and adding the asp action
  added th asp action
+
+ 2:51 now modifying the Upsert.cshtml
+ edited

@@ -1,11 +1,16 @@
-﻿
+﻿@model NidhisBooks.Models.Category;
 @{
-    ViewData["Title"] = "Upsert";
+
     Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = " Create Category";
 }
 
 <h1>Upsert</h1><form method="post">
     <div class="row p-3 border">
+        @if (Model.Id != null)
+        { 
+        title="Edit Category";
+        }
         <div class="col-12 border-bottom">
             <h2 class="text-primary">TITLE</h2>
         </div>
