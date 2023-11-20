@@ -179,3 +179,8 @@ Solved the error and added the interface
 
  found the error had index in wrong folder
  tested it is working
+
+ added the fint awesome
+ deleted and now doing the js
+
+ 2:21 created the js file and added the content given in the files
