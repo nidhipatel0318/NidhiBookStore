@@ -217,3 +217,4 @@ Solved the error and added the interface
 
  2:51 now modifying the Upsert.cshtml
  edited
+ Added the asp action to Index.cshtml
