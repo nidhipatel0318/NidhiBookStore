@@ -8,7 +8,7 @@ using NidhiBookStore.DataAcess.Data;
 
 namespace NidhisBooks.DataAccess.Repository.IRepository
 {
-    interface IUnitOfWork:IDisposable
+    public interface IUnitOfWork:IDisposable
     {
         ICategoryRepository Category { get;  }
         ISP_Call SP_Call { get; }

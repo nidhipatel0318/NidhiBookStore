@@ -8,7 +8,7 @@ using NidhisBooks.DataAccess.Repository.IRepository;
 
  namespace NidhisBooks.DataAccess.Repository
 {
-    public class UnitOfWork
+    public class UnitOfWork:IUnitOfWork
     {
         private readonly ApplicationDbContext _db;
         public UnitOfWork(ApplicationDbContext db)
