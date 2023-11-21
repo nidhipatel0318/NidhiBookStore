@@ -228,3 +228,5 @@ Solved the error and added the interface
 
  10:32
  edited the Upsert.cshtml for validation
+
+ created and edited the category

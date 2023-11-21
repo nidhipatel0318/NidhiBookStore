@@ -35,6 +35,30 @@ namespace NidhisBookStore.Areas.Admin.Controllers
             }
             return View();
         }
+
+        //use HTTP post to define the post-action method
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Upsert(Category category)
+        {
+            if (ModelState.IsValid)    //CHECK ALL VALIDATION IN THE MODEL(E.G name required) to increase security
+            {
+                if (category.Id == 0)
+                {
+                    _unitOfWork.Category.Add(category);
+
+                }
+                else
+                {
+                    _unitOfWork.Category.Update(category);
+                }
+                _unitOfWork.Save();
+                return RedirectToAction(nameof(Index));    //to see all teh categories
+            }
+            return View(category);
+        }
+
+
         //API calls here
         #region API CALLS
         [HttpGet]
