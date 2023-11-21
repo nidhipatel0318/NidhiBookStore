@@ -239,3 +239,13 @@ Solved the error and added the interface
  11:29 added the id and name to it
 
  added the CoverTypeRepository and IcovertypeRepository
+
+ ADDED THE COVER TYPE CLASS,
+ ADDED THE ICOVERTYPEREPOSITORY AND CpverTypeRepository
+
+
+ 10:42
+ 20231121154127_AddCoverTypeToDb.cs
+ ADDED THE MIGRATION
+
+ 10:46 updated the databse

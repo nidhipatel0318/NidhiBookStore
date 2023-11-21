@@ -1,19 +1,19 @@
-﻿using System;
+﻿using NidhiBookStore.DataAcess.Data;
+using NidhisBooks.DataAccess.Repository.IRepository;
+using NidhisBooks.Models;
+using NidhisBooks.Models.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NidhiBookStore.DataAcess.Data;
-using NidhisBooks.DataAccess.Repository.IRepository;
-using NidhisBooks.Models.ViewModels;
 
 namespace NidhisBooks.DataAccess.Repository
 {
-   public class CoverTypeRespository:Repository<CoverType>, ICoverTypeRepository
-  
+    public class CoverTypeRepository : Repository<CoverType>, ICoverTypeRepository
     {
         private readonly ApplicationDbContext _db;
-        public CoverTypeRespository(ApplicationDbContext db) : base(db)
+        public CoverTypeRepository(ApplicationDbContext db) : base(db)
         {
             _db = db;
         }
