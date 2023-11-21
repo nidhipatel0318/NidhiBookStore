@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using NidhiBookStore.DataAcess.Data;
 using NidhisBooks.DataAccess.Repository.IRepository;
-using NidhisBooks.Models.ViewModels;
+
+using NidhisBooks.Models;
 
 namespace NidhisBooks.DataAccess.Repository
 {

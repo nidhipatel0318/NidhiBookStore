@@ -1,7 +1,7 @@
 ﻿using NidhiBookStore.DataAcess.Data;
 using NidhisBooks.DataAccess.Repository.IRepository;
 using NidhisBooks.Models;
-using NidhisBooks.Models.ViewModels;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;

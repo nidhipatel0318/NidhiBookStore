@@ -252,3 +252,8 @@ Solved the error and added the interface
 
  10:57
  addd the covertype to navbar
+ 10:59
+ added the CoverTypeController.cs to Areas/Admin/Controller
+ added thee Covertype folder to conroller and added the views and actions required
+
+ error in creating the covertyp
