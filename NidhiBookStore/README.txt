@@ -230,3 +230,12 @@ Solved the error and added the interface
  edited the Upsert.cshtml for validation
 
  created and edited the category
+ deleting the category as well
+
+ now moving ahead with 3 rd  part
+ 2023-11-20
+ added the CoverType.cs in Models folder
+
+ 11:29 added the id and name to it
+
+ added the CoverTypeRepository and IcovertypeRepository

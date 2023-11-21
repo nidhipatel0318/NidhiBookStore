@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using NidhiBookStore.DataAcess.Data;
 using NidhisBooks.DataAccess.Repository.IRepository;
+using NidhisBooks.Models.ViewModels;
 
- namespace NidhisBooks.DataAccess.Repository
+namespace NidhisBooks.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {
@@ -16,9 +17,11 @@ using NidhisBooks.DataAccess.Repository.IRepository;
             _db = db;
             Category = new CategoryRepository(_db);
             SP_Call = new SP_Call(_db);
+            CoverType = new CoverTypeRespository(_db);
         }
         public ICategoryRepository Category { get; private set; }
         public ISP_Call SP_Call { get; private set; }
+        public ICoverTypeRepository{ get; private set;}
 
       //  IRepository.ICategoryRepository IUnitOfWork.Category => throw new NotImplementedException();
 
