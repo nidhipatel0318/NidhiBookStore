@@ -270,3 +270,23 @@ Solved the error and added the interface
  now updating the database
  12:17
  updated the database
+
+ 12:18 revieing the newly created product tables
+ did that'
+
+ 12:30
+ updated the product class
+ 12:39
+
+ added the product Repository
+ 12:40
+ADDED THE PRODUCCT iNTERFACE
+12:47
+ADDED THE PRODUCT TO UNIT OF WORK AND IUNIT OF WORK
+
+ADDING THE CONTROLLER.JS AND CSHTML
+
+now adding the IWebEnvironment 
+Added
+1:12
+now adding the ProductVM to ViewModels
