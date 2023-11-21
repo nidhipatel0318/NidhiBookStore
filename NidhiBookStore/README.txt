@@ -290,3 +290,25 @@ now adding the IWebEnvironment
 Added
 1:12
 now adding the ProductVM to ViewModels
+added 
+
+1:17
+added the select list for Category and CoverType
+
+installed the Mvc.ViewFeatures
+
+modifying the IAction for ProductVM
+DID THAT
+
+1:30
+MODIFIED THE API ACTION
+NOW ADDING THE INDEX VIEW
+
+
+ADDED
+1:36 ADDING THE UPSERT.CSHTML
+ADDED
+ADDED THE DATA FIEDS TO PRODUCT.JS
+
+MODIFIED THE _LAYOUT.CSHTML TO ADD THE PRODUCT
+TESTING
