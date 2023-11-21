@@ -255,5 +255,18 @@ Solved the error and added the interface
  10:59
  added the CoverTypeController.cs to Areas/Admin/Controller
  added thee Covertype folder to conroller and added the views and actions required
-
+ 12:08
  error in creating the covertyp
+
+ MOVING AHEAD WITH PRODUCT
+ 12:15
+ CREATED A PRODUCT CLASS IN MODELS
+ ADDED THE DBSET
+
+ NOW ADDING THE MIGRATION
+ 12:16 
+ 20231121171628_addProductToDb.Designer
+ added the migration 
+ now updating the database
+ 12:17
+ updated the database

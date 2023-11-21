@@ -15,5 +15,7 @@ namespace NidhiBookStore.DataAcess.Data
          
         }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CoverType> CoverType { get; set; }
+        public DbSet<Product> Product { get; set; }
     }
 }
