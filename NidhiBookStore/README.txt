@@ -245,7 +245,10 @@ Solved the error and added the interface
 
 
  10:42
- 20231121154127_AddCoverTypeToDb.cs
+ 20231121154127_AddCoverTypeToDb
  ADDED THE MIGRATION
 
  10:46 updated the databse
+
+ 10:57
+ addd the covertype to navbar
