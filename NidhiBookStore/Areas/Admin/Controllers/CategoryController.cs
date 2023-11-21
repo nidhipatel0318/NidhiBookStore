@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using NidhisBooks.DataAccess.Repository.IRepository;
 using NidhisBooks.Models;
 
-namespace NidhiBookStore.Areas.Admin.Controllers
+namespace NidhisBookStore.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class CategoryController : Controller

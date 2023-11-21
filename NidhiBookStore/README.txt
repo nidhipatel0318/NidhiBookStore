@@ -1,4 +1,5 @@
-﻿2023-13-11
+﻿
+2023-13-11
 11:46
 CREATED THE PROJECT
 tested 
@@ -218,3 +219,6 @@ Solved the error and added the interface
  2:51 now modifying the Upsert.cshtml
  edited
  Added the asp action to Index.cshtml
+
+ 10:22
+ found the error was typos in partial view
