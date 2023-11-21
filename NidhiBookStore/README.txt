@@ -222,3 +222,9 @@ Solved the error and added the interface
 
  10:22
  found the error was typos in partial view
+
+ 10:26
+ added the @section Scripts to Upsert.cshtml now testing
+
+ 10:32
+ edited the Upsert.cshtml for validation
